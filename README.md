@@ -5,7 +5,9 @@
     using seaborn and matplotlib to get more insight about the data
     
     Some of the Visuals from the ananysis:
-    <Img src="
+    ![](https://github.com/Karthik-K23/Exploratory-Data-Analysis-Project/blob/main/Images/titanic%201.PNG)| ![](https://github.com/Karthik-K23/Exploratory-Data-Analysis-Project/blob/main/Images/titanic%202.PNG)
+       
+     ![](https://gitGhub.com/Karthik-K23/Exploratory-Data-Analysis-Project/blob/main/Images/titanic%203.PNG)| ![](https://github.com/Karthik-K23/Exploratory-Data-Analysis-Project/blob/main/Images/titanic%204.PNG)
     
     
 ### 2.	Stock market analysis Project: 
