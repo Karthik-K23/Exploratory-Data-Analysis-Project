@@ -21,8 +21,7 @@
      
     
 ## 3.	Election Date: 
-###   Polls and donation data visualising different poll data, voter sentiment analysis with visualisation different donations 
-    changes between the candidate’s trends between donor’s occupation or their third-party affiliations.
+###   Polls and donation data visualising different poll data, voter sentiment analysis with visualisation different donations changes between the candidate’s trends between donor’s occupation or their third-party affiliations.
     
 ### Some of the Visuals from the ananysis:
 ![](Images/election.PNG) 
