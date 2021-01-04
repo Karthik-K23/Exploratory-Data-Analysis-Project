@@ -1,10 +1,11 @@
 # Exploratory-Data-Analysis-Project
 
 ### 1.	Tracking Kaggle Titanic challenge: 
-    Analysing and answering different problems based on the data set. Throughout the analysis, data is visualised using 
-    seaborn and matplotlib to get more insight about the data
+    Analysing and answering different problems based on the data set. Throughout the analysis, data is visualised 
+    using seaborn and matplotlib to get more insight about the data
     
     Some of the Visuals from the ananysis:
+    <Img src="
     
     
 ### 2.	Stock market analysis Project: 
